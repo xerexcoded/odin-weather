@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/odin-weather/static/css/main.cd9ffd63.chunk.css",
+    "main.js": "/odin-weather/static/js/main.771720a4.chunk.js",
+    "main.js.map": "/odin-weather/static/js/main.771720a4.chunk.js.map",
+    "runtime-main.js": "/odin-weather/static/js/runtime-main.d8b8ecb9.js",
+    "runtime-main.js.map": "/odin-weather/static/js/runtime-main.d8b8ecb9.js.map",
+    "static/js/2.d85f1b58.chunk.js": "/odin-weather/static/js/2.d85f1b58.chunk.js",
+    "static/js/2.d85f1b58.chunk.js.map": "/odin-weather/static/js/2.d85f1b58.chunk.js.map",
+    "index.html": "/odin-weather/index.html",
+    "static/css/main.cd9ffd63.chunk.css.map": "/odin-weather/static/css/main.cd9ffd63.chunk.css.map",
+    "static/js/2.d85f1b58.chunk.js.LICENSE.txt": "/odin-weather/static/js/2.d85f1b58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8b8ecb9.js",
+    "static/js/2.d85f1b58.chunk.js",
+    "static/css/main.cd9ffd63.chunk.css",
+    "static/js/main.771720a4.chunk.js"
+  ]
+}
