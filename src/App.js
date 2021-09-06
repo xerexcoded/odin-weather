@@ -42,7 +42,7 @@ function App() {
   }
   useEffect(() => {
     if(locationd.length!== 0) {fetchResults();}
-  },[locationd]) 
+  },[]) 
 
   //get location data for the device
   async function fetchResults(){
@@ -105,7 +105,7 @@ function App() {
       console.log(e)
     }
   }
- useEffect(()=>{getIntialLocation()},[]) //run this when app is loaded 
+ useEffect(()=>{getIntialLocation()},[])//run this when app is loaded 
 
 
 
